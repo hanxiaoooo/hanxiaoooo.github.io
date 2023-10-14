@@ -16,4 +16,4 @@ Part Two: Research on Framework Analysis of Policy Effects. The policy may not b
 
 Part Three: Write some interesting short stories with the use of cliometrics. I want to turn it into a lifelong direction, discussing the formation and conflict of social norms and their far-reaching effects in a given historical context.
 
-You can find my CV here: [Xiao HAN's Curriculum Vitae](../assets/Curriculum Vitae.pdf)
+You can find my CV here: [Xiao HAN's Curriculum Vitae](../images/Curriculum Vitae.pdf)
