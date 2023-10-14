@@ -10,10 +10,10 @@ redirect_from:
 
 My research interests are categorized into three parts:
 
-Part One: Discuss the variability among household decisions when exogenous shocks occur under specific social norms. This variability has two dimensions: the first is how to measure this exogenous shock between different cohorts. The second is the variation in household decision making and long-term effects of behavioral decisions in specific cohorts.
+Part One: Discuss the variability of household decisions when exogenous shocks occur under specific social norms. The first is how to measure the heterogeneous effects of shock on different cohorts. The second is to discuss long-term effects of behavioral household decisions of specific cohorts.
 
-Part Two: Research on Framework Analysis of Policy Effects. The policy may not be a compulsory regulation, and we hope that through some textual analysis techniques, we can identify the real behavior of policy makers and implementers, and whether there is an interesting decoupling phenomenon in the context of information asymmetry. Bringing the motivations and real performances of different policy makers into the same analytical framework is what we are trying to do.
+Part Two: Research on framework analysis of policy effects. The policy may not be a compulsory regulation, and by virtue of some textual analysis techniques, we can identify the real behavior of policy makers and implementers, and whether decoupling phenomenon in the context of information asymmetry exists or not.
 
-Part Three: Write some interesting short stories with the use of cliometrics. I want to turn it into a lifelong direction, discussing the formation and conflict of social norms and their far-reaching effects in a given historical context.
+Part Three: Write interesting stories of quantative history. I want to explore the formation and conflict of social norms and their profound effects in a given historical context. This is a long-term effort.
 
 You can find my CV here: [Xiao HAN's Curriculum Vitae](../images/Curriculum Vitae.pdf)
