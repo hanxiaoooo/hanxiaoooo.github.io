@@ -10,7 +10,7 @@ redirect_from:
 
 My research interests are categorized into three parts:
 
-Part One: Discuss the variability of household decisions when exogenous shocks occur under specific social norms. The first is how to measure the heterogeneous effects of shock on different cohorts. The second is to discuss long-term effects of behavioral household decisions of specific cohorts.
+Part One: Discuss the changes in household decisions when exogenous shocks occur under specific social norms. The first is how to measure the heterogeneous effects of shock on different cohorts. The second is to discuss long-term effects of behavioral household decisions of specific cohorts.
 
 Part Two: Research on framework analysis of policy effects. The policy may not be a compulsory regulation, and by virtue of some textual analysis techniques, we can identify the real behavior of policy makers and implementers, and whether decoupling phenomenon in the context of information asymmetry exists or not.
 
