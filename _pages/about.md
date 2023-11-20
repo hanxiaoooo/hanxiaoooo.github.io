@@ -14,7 +14,7 @@ Part One: Discuss the changes in household decisions when exogenous shocks occur
 
 Part Two: Research on framework analysis of policy effects. The policy may not be a compulsory regulation, and by virtue of some textual analysis techniques, we can identify the real behavior of policy makers and implementers, and whether decoupling phenomenon in the context of information asymmetry exists or not.
 
-Part Three: Write interesting stories of quantative history. I want to explore the formation and conflict of social norms and their profound effects in a given historical context. This is a long-term effort.
+Part Three: Write interesting stories of quantative history. I want to explore the formation and conflict of social norms and their profound effects in a given historical context. This is long-term effort.
 
 You can find my CV here: [Xiao HAN's Curriculum Vitae](../images/Curriculum Vitae.pdf).
 
