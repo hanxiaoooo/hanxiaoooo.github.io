@@ -16,6 +16,8 @@ Part Two: Research on framework analysis of policy effects. The policy may not b
 
 Part Three: Write interesting stories of quantative history. I want to explore the formation and conflict of social norms and their profound effects in a given historical context. This is a long-term effort.
 
-You can find my CV here: [Xiao HAN's Curriculum Vitae](../images/Curriculum Vitae.pdf)
-You can see my research proposal here: [Xiao HAN's Research Proposal](../images/Research Proposal.pdf)
-Thank you very much for any valuable suggestions you have provided!
+You can find my CV here: [Xiao HAN's Curriculum Vitae](../images/Curriculum Vitae.pdf).
+
+You can see my research proposal here: [Xiao HAN's Research Proposal](../images/Research Proposal.pdf).
+
+Thank you very much for any valuable suggestions!
