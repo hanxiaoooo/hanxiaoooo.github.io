@@ -20,4 +20,4 @@ You can find my CV here: [Xiao HAN's Curriculum Vitae](../images/Curriculum Vita
 
 You can see my research proposal here: [Xiao HAN's Research Proposal](../images/Research Proposal.pdf).
 
-Thank you very much for any valuable suggestions!
+Thank you very much for any valuable suggestion!
