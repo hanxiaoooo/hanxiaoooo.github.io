@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "My Research Interests"
+title: "XIAO HAN (韩潇)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+My first name pronunciation is “Shaw”.
+
+I will start my Economics Ph.D. at the Chinese University of Hong Kong in the fall of 2024.
+
 My research interests are categorized into three parts:
+Part One: Investigating Household Choices. How families change their decision-making when exogenous shocks hit, particularly within the confines of established social norms? My focus is to examine the long-term effects on the behaviors of specific demographic segments.
 
-Part One: Discuss the changes in household decisions when exogenous shocks occur under specific social norms. The first is how to measure the heterogeneous effects of shock on different cohorts. The second is to discuss long-term effects of behavioral household decisions of specific cohorts.
+Part Two: Assessing Policy Impact. My research extends to evaluating the actual effects of policies using advanced textual analysis methods. I aim to determine if there’s a disconnect—a decoupling—between policy intent and action for information asymmetry.
 
-Part Two: Research on framework analysis of policy effects. The policy may not be a compulsory regulation, and by virtue of some textual analysis techniques, we can identify the real behavior of policy makers and implementers, and whether decoupling phenomenon in the context of information asymmetry exists or not.
-
-Part Three: Write interesting stories of quantative history. I want to explore the formation and conflict of social norms and their profound effects in a given historical context. This is long-term effort.
+Part Three: Crafting Narratives in Quantitative History. By integrating quantitative analysis with historical context, I hope to shed light on the underlying forces shaping societal behaviors and decisions.
 
 You can find my CV here: [Xiao HAN's Curriculum Vitae](../images/Curriculum Vitae.pdf).
 
-You can see my research proposal here: [Xiao HAN's Research Proposal](../images/Research Proposal.pdf).
-
-Thank you very much for any valuable suggestion!
