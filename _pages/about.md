@@ -19,5 +19,5 @@ Part Two: Assessing Policy Impact. My research extends to evaluating the actual 
 
 Part Three: Crafting Narratives in Quantitative History. By integrating quantitative analysis with historical context, I hope to shed light on the underlying forces shaping societal behaviors and decisions.
 
-You can find my CV here: [Xiao HAN's Curriculum Vitae](..files/cv_Xiao HAN.pdf)
+You can find my CV here: [Curriculum Vitae 2024.02](../images/cv_Xiao HAN.pdf).
 
