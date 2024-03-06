@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "XIAO HAN (韩潇)"
+title: "  "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
